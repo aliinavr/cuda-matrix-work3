@@ -1,0 +1,5 @@
+/content/work3/build/CMakeFiles/matrix_demo.dir
+/content/work3/build/CMakeFiles/matrix_tests.dir
+/content/work3/build/CMakeFiles/matrix_benchmark.dir
+/content/work3/build/CMakeFiles/edit_cache.dir
+/content/work3/build/CMakeFiles/rebuild_cache.dir
